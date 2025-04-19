@@ -24,7 +24,7 @@
     "vars": {
         "AUTH_ENABLED": "true",
         "AUTH_USERNAME": "mjc",
-        "AUTH_PASSWORD": "mjc",
-        "AUTH_SECRET": "mjc"
+        "AUTH_PASSWORD": "Mjc123456",
+        "AUTH_SECRET": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJuYXYubWx5eW8uY29tIiwic3ViIjoiYW50b25pbyIsImF1ZCI6Im5hdGFsaWEiLCJpYXQiOjE3NDUwNDEzNzgsImV4cCI6MTk0NTA0MTk3OH0.EmSyxS7-6azB3gf__jcD67yjUl-1SzjjdeUpmkihOvA"
     }
 }
